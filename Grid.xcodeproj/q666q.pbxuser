@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GridAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {951, 442}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 458}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GridAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {951, 512}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 570}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Grid */ = {
+		activeExec = 0;
+		executables = (
+			93AE946C109007530006261F /* Grid */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 93AE946C109007530006261F /* Grid */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Grid */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Grid */,
+		);
+		codeSenseManager = 93AE94741090076F0006261F /* Code sense */;
+		executables = (
+			93AE946C109007530006261F /* Grid */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 277874515;
+			PBXWorkspaceStateSaveDate = 277874515;
+		};
+		sourceControlManager = 93AE94731090076F0006261F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	93AE946C109007530006261F /* Grid */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Grid;
+		sourceDirectories = (
+		);
+	};
+	93AE94701090076F0006261F /* DataGridComponent.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {951, 1616}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	93AE94711090076F0006261F /* DataGridComponent.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {951, 3696}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 1079}";
+		};
+	};
+	93AE94731090076F0006261F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	93AE94741090076F0006261F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
